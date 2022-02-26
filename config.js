@@ -14,14 +14,14 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': '7fa7d8d06d',
 }
 
 // Other
-global.owner = ['6283167714830','6288292024190','62882920241909','62882920241908','6281382420312']
-global.packname = 'Hisoka Morrow'
+global.owner = ['60102810046','0']
+global.packname = 'Aiman '
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.sessionName = 'Aiman'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {

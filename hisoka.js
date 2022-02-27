@@ -980,7 +980,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/ai-man-123/Md1'
+                                    url: 'https://github.com/ai-man-123'
                                 }
                             }, {
                                 callButton: {
@@ -1020,7 +1020,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/ai-man-123/Md1'
+                                    url: 'https://github.com/ai-man-123'
                                 }
                             }, {
                                 callButton: {
@@ -2608,12 +2608,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             hydratedContentText: anu,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/ai-man-123/Md1'
+                                    displayText: '𝘚𝘰𝘶𝘳𝘤𝘦 𝘊𝘰𝘥𝘦',
+                                    url: 'https://github.com/ai-man-123'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: 'Nᵾmƀɇɍ Ᵽħønɇ Øwnɇɍ📱',
                                     phoneNumber: '+60 10-281 0046'
                                 }
                             }, {

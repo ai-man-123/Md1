@@ -19,7 +19,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['60102810046','60183905625']
-global.packname = 'Aiman '
+global.packname = '❤AZbot by Aiman '
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'Aiman'
 global.prefa = ['','!','.','🐦','🐤','🗿']

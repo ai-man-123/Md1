@@ -2628,8 +2628,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: '𝘱𝘪𝘯𝘨',
+                                    id: 'ping'
                                 }
                             }]
                         }
